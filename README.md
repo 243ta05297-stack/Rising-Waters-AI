@@ -174,7 +174,7 @@ Government agencies and researchers can validate historical flood data using the
 
 - **Shaik Sheema** – Team Lead
 - **Shaik Neha Masrath**
-- **Salkapuram Samiya Mahima Jyothi**
+- **Salkapuram Samiya Mahima Jyothi - Machine Learning,Flask Backend,GitHub and Deployment**
 - **Shaik Sadikha**
 - **Yesra Ameena**
 
